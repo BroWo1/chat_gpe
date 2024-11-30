@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   title: "Chat GPE",
   description: "Free GPT-4o for THIS students --- Provided by GPE Club",
   appleWebApp: {
-    title: "NextChat",
+    title: "ChatGPE",
     statusBarStyle: "default",
   },
 };
