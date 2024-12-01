@@ -10,7 +10,7 @@ import { GoogleTagManager, GoogleAnalytics } from "@next/third-parties/google";
 const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
-  title: "Chat GPE",
+  title: "ChatGPE",
   description: "Free GPT-4o for THIS students --- Provided by GPE Club",
   appleWebApp: {
     title: "ChatGPE",
