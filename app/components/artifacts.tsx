@@ -229,7 +229,8 @@ export function Artifacts() {
   return (
     <div className={styles["artifacts"]}>
       <div className={styles["artifacts-header"]}>
-        <a href={REPO_URL} target="_blank" rel="noopener noreferrer">
+        <!--<a href={REPO_URL} target="_blank" rel="noopener noreferrer">-->
+        <a href={`https://github.com/BroWo1`} target="_blank" rel="noopener noreferrer">
           <IconButton bordered icon={<GithubIcon />} shadow />
         </a>
         <IconButton
