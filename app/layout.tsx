@@ -11,7 +11,7 @@ const serverConfig = getServerSideConfig();
 
 export const metadata: Metadata = {
   title: "ChatGPE",
-  description: "Free GPT-4o for THIS students --- Provided by GPE Club",
+  description: "Free GPT-4o for THIS students --- Provided by GPE Club --- visit www.gpeclub.com",
   appleWebApp: {
     title: "ChatGPE",
     statusBarStyle: "default",
